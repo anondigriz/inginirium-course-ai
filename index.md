@@ -14,6 +14,8 @@ layout: default
 
 **Преподаватель:** Аладин Дмитрий Владимирович
 
+**Тип:** Лекция
+
 План:
 
 * О курсе
@@ -26,13 +28,15 @@ layout: default
 
 Материал:
 
-* Блокнот [занятия](https://colab.research.google.com/drive/1puHPVDOwh0Nr8GKfV2_qogN2pBOANFF5?usp=sharing).
+* Блокнот [занятия](/src/20-01-2022/workshop_MainFlow.ipynb).
 
 ### Занятие 20 янв 2022 (ЧТ)
 
 **Тема:** Подготавливаемся к охоте на Питона
 
 **Преподаватель:** Аладин Дмитрий Владимирович
+
+**Тип:** Практикум
 
 План:
 
@@ -44,20 +48,10 @@ layout: default
 * Исключения
 * Файлы. Работа с файлами
 * PEP 8 - руководство по написанию кода на Python
-  
------
-
-* Классы и объекты
-* Полезные приёмы и хитрости Python
-* Работа с модулями (import и from)
-* Assert. Что это?
 
 Материал:
 
-* Блокнот [первой половины занятия](https://colab.research.google.com/drive/1puHPVDOwh0Nr8GKfV2_qogN2pBOANFF5?usp=sharing).
-* Блокнот [второй половины занятия](https://colab.research.google.com/drive/1yQgG6ESUFzxPWK8nZBkpgKfkt-4dMyjz?usp=sharing)
-* Блокнот [умеренных задач](https://colab.research.google.com/drive/1InLaN3crYekO2IEk4H2uG6VU8L-Cv2JL?usp=sharing)
-* Блокнот [сложных задач](https://colab.research.google.com/drive/1vexJur3jRHdihMrhOcr2JqiHFObmTko3?usp=sharing)
+* Блокнот [занятия](/src/20-01-2022/workshop_MainFlow.ipynb).
 
 Полезный материал:
 
@@ -72,7 +66,39 @@ layout: default
 
 ### Занятие 22 янв 2022 (СБ)
 
+**Тема:** Охота на Питона
+
+**Преподаватель:** Аладин Дмитрий Владимирович
+
+**Тип:** Самостоятельная работа
+
+План:
+
+* Самостоятельное решение задач
+
+Материал:
+
+* Блокнот [умеренных задач](https://colab.research.google.com/drive/1InLaN3crYekO2IEk4H2uG6VU8L-Cv2JL?usp=sharing)
+* Блокнот [сложных задач](https://colab.research.google.com/drive/1vexJur3jRHdihMrhOcr2JqiHFObmTko3?usp=sharing)
+
 ### Занятие 24 янв 2022 (ПН)
+
+**Тема:** Совершенствуемся в охоте на Питона
+
+**Преподаватель:** Аладин Дмитрий Владимирович
+
+**Тип:** Практикум
+
+План:
+
+* Классы и объекты
+* Полезные приёмы и хитрости Python
+* Работа с модулями (import и from)
+* Assert. Что это?
+
+Материал:
+
+* Блокнот [занятия](https://colab.research.google.com/drive/1yQgG6ESUFzxPWK8nZBkpgKfkt-4dMyjz?usp=sharing)
 
 ### Занятие 26 янв 2022 (СР)
 
