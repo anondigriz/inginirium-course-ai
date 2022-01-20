@@ -1,4 +1,6 @@
-## О курсе
+---
+layout: default
+---
 
 Данный репозиторий содержит в себе сопроводительный учебный материал для курса "Искусственный интеллект и машинное обучение", проводимый в рамках образовательного центра [Инжинириум®](https://inginirium.ru/) в период с января 2022 г. по март 2022 г.
 
@@ -66,6 +68,7 @@
 * [Coderbyte](https://coderbyte.com/)
 * [Топ-16 книг по Python: для профессионалов, новичков и даже детей](https://highload.today/top-16-knig-po-python-dlya-professionalov-novichkov-i-dazhe-detej/)
 * [Объектно-ориентированное программирование (ООП). Объясняем на пальцах](https://highload.today/obektno-orientirovannoe-programmirovanie/)
+* [Начало работы с Python в VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
 ### Занятие 22 янв 2022 (СБ)
 
