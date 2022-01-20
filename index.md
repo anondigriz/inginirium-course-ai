@@ -1,8 +1,71 @@
+## О курсе
+
+Данный репозиторий содержит в себе сопроводительный учебный материал для курса "Искусственный интеллект и машинное обучение", проводимый в рамках образовательного центра [Инжинириум®](https://inginirium.ru/) в период с января 2022 г. по март 2022 г.
+
 ## Материал к занятиям
+
+Презентации к занятиям предоставляются в материалах вебинара на платформе [https://webinar.ru/]
 
 ### Занятие 19 янв 2022 (СР)
 
+**Тема:** Организационное + Введение в Python
+
+**Преподаватель:** Аладин Дмитрий Владимирович
+
+План:
+
+* О курсе
+* Структура курса
+* Темы курса
+* Дополнительный учебный материал
+* О «Разведке боем»
+* Полезные ресурсы
+* Общая информация о Python
+
+Материал:
+
+* Блокнот [занятия](https://colab.research.google.com/drive/1puHPVDOwh0Nr8GKfV2_qogN2pBOANFF5?usp=sharing).
+
 ### Занятие 20 янв 2022 (ЧТ)
+
+**Тема:**  Python
+
+**Преподаватель:** Аладин Дмитрий Владимирович
+
+План:
+
+* Основные типы данных
+* Операторы в Python
+* Инструкция if-elif-else
+* Циклы for и while
+* Функции и их аргументы
+* Исключения
+* Файлы. Работа с файлами
+* PEP 8 - руководство по написанию кода на Python
+  
+-----
+
+* Классы и объекты
+* Полезные приёмы и хитрости Python
+* Работа с модулями (import и from)
+* Assert. Что это?
+
+Материал:
+
+* Блокнот [первой половины занятия](https://colab.research.google.com/drive/1puHPVDOwh0Nr8GKfV2_qogN2pBOANFF5?usp=sharing).
+* Блокнот [второй половины занятия](https://colab.research.google.com/drive/1yQgG6ESUFzxPWK8nZBkpgKfkt-4dMyjz?usp=sharing)
+* Блокнот [умеренных задач](https://colab.research.google.com/drive/1InLaN3crYekO2IEk4H2uG6VU8L-Cv2JL?usp=sharing)
+* Блокнот [сложных задач](https://colab.research.google.com/drive/1vexJur3jRHdihMrhOcr2JqiHFObmTko3)
+
+Полезный материал:
+
+* [Codewars](https://www.codewars.com/)
+* [Codeforces](https://codeforces.com/)
+* [Codingame](https://www.codingame.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [Coderbyte](https://coderbyte.com/)
+* [Топ-16 книг по Python: для профессионалов, новичков и даже детей](https://highload.today/top-16-knig-po-python-dlya-professionalov-novichkov-i-dazhe-detej/)
+* [Объектно-ориентированное программирование (ООП). Объясняем на пальцах](https://highload.today/obektno-orientirovannoe-programmirovanie/)
 
 ### Занятие 22 янв 2022 (СБ)
 
