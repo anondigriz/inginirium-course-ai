@@ -28,7 +28,7 @@
 
 ### Занятие 20 янв 2022 (ЧТ)
 
-**Тема:**  Python
+**Тема:** Подготавливаемся к охоте на Питона
 
 **Преподаватель:** Аладин Дмитрий Владимирович
 
@@ -55,7 +55,7 @@
 * Блокнот [первой половины занятия](https://colab.research.google.com/drive/1puHPVDOwh0Nr8GKfV2_qogN2pBOANFF5?usp=sharing).
 * Блокнот [второй половины занятия](https://colab.research.google.com/drive/1yQgG6ESUFzxPWK8nZBkpgKfkt-4dMyjz?usp=sharing)
 * Блокнот [умеренных задач](https://colab.research.google.com/drive/1InLaN3crYekO2IEk4H2uG6VU8L-Cv2JL?usp=sharing)
-* Блокнот [сложных задач](https://colab.research.google.com/drive/1vexJur3jRHdihMrhOcr2JqiHFObmTko3)
+* Блокнот [сложных задач](https://colab.research.google.com/drive/1vexJur3jRHdihMrhOcr2JqiHFObmTko3?usp=sharing)
 
 Полезный материал:
 
