@@ -28,7 +28,7 @@ layout: default
 
 Материал:
 
-* Блокнот [занятия](/src/20-01-2022/workshop_MainFlow.ipynb).
+* Презентация [занятия](https://docs.google.com/presentation/d/1Mmu1tYx_a_t_3MAqDza6D6GUzAdDwN31_q2Og8A5y_4/edit?usp=sharing)
 
 ### Занятие 20 янв 2022 (ЧТ)
 
