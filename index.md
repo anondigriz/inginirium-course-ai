@@ -74,12 +74,13 @@ layout: default
 
 План:
 
-* Самостоятельное решение задач
+* Самостоятельное решение задач (3/4 занятия)
+* Обсуждение решенных задач (1/4 занятия)
 
 Материал:
 
-* Блокнот [умеренных задач](https://colab.research.google.com/drive/1InLaN3crYekO2IEk4H2uG6VU8L-Cv2JL?usp=sharing)
-* Блокнот [сложных задач](https://colab.research.google.com/drive/1vexJur3jRHdihMrhOcr2JqiHFObmTko3?usp=sharing)
+* Блокнот [умеренных задач](/src/22-01-2022/self-study_task-1.ipynb)
+* Блокнот [сложных задач](/src/22-01-2022/self-study_task-2.ipynb)
 
 ### Занятие 24 янв 2022 (ПН)
 
