@@ -92,14 +92,23 @@ layout: default
 
 План:
 
+* Методы основных типов
+* List, dict, set comprehensions (генераторы)
 * Классы и объекты
 * Полезные приёмы и хитрости Python
 * Работа с модулями (import и from)
-* Assert. Что это?
+* Assert
 
 Материал:
 
 * Блокнот [занятия](https://colab.research.google.com/drive/1yQgG6ESUFzxPWK8nZBkpgKfkt-4dMyjz?usp=sharing)
+
+Полезный материал:
+
+1. [Шаблоны проектирования в Python: для стильного кода](https://proglib.io/p/python-patterns/)
+1. [Как работают импорты в Python](https://tproger.ru/translations/guide-into-python-imports/)
+1. [Как правильно ничего не делать в Python: инструкция pass](https://proglib.io/p/kak-pravilno-nichego-ne-delat-v-python-instrukciya-pass-2020-12-19)
+1. [Рефакторинг.Гуру](https://refactoring.guru)
 
 ### Занятие 26 янв 2022 (СР)
 
