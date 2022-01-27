@@ -133,20 +133,25 @@ layout: default
 
 | Тема | Тип |  Преподаватель |
 | --- | ---| --- |
-| Основы языка SQL | Практика | Аладин Дмитрий Владимирович |
+| Введение в базы данных и SQL | Практика | Аладин Дмитрий Владимирович |
 
 План:
 
-* Системы хранения данных
-* Базы данных
-* SQLite
-* Реляционные базы данных и их моделирование
-* SQL, синтаксис обращения к базам данных
-* Простые и сложные запросы
+* Базы данных и системы хранения баз данных 
+* Основные понятия реляционной модели
+* Что такое язык SQL
+* Операторы определения данных
 
 Материал:
 
-*
+* Блокнот [занятия](/src/27-01-2022/workshop_MainFlow.ipynb)
+
+Дополнительный материал:
+
+* Введение в базы данных и SQL взято из книги "Евгений Моргунов. Язык SQL. Базовый курс". Получить книгу можно по [ссылке](https://postgrespro.ru/education/books/sqlprimer).
+* Блокнот [Getting Started with Databases](https://colab.research.google.com/github/SamwelJane/Copy-of-SQL-Programming---Getting-Started-with-Databases/blob/master/Copy_of_SQL_Programming_Getting_Started_with_Databases.ipynb)
+* [SQL for Data Science Learners - sql on google colab](https://youtu.be/WaKOnXTKyhU)
+
 
 ### Занятие 29 янв 2022 (СБ)
 
@@ -157,7 +162,8 @@ layout: default
 
 План:
 
-*
+* Операторы манипулирования данными
+* Создание сложных Запросов
 
 Материал:
 
