@@ -168,7 +168,7 @@ layout: default
 
 Материал:
 
-* Блокнот [занятия](https://colab.research.google.com/drive/1g6XDtaC_gIsLCPVTkUUSG3emD1J9XEBG?usp=sharing)
+* Блокнот [занятия](/src/29-01-2022/workshop_MainFlow.ipynb)
 
 Дополнительный материал:
 
