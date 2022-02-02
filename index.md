@@ -228,7 +228,7 @@ layout: default
 
 Материал:
 
-*
+* Блокнот [занятия](https://drive.google.com/file/d/1qis5oHJ-arNWAGRGDQykXe_eXaIllu7d/view?usp=sharing)
 
 ### Занятие 05 фев 2022 (СБ)
 
