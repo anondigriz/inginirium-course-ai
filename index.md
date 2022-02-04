@@ -241,7 +241,10 @@ layout: default
 
 Материал:
 
-* <В_ПРОЦЕССЕ_ПОДГОТОВКИ_`¯\_(ツ)_/¯`>
+* Блокнот с [датасетом "Extended Football Stats and Expected Goals (xG)"](/src/05-02-2022/individual_work_dataset_1.ipynb)
+* Блокнот с [датасетом "Occupancy Detection Data Set"](/src/05-02-2022/individual_work_dataset_2.ipynb)
+* Блокнот с [датасетом "Weather in Szeged 2006-2016"](/src/05-02-2022/individual_work_dataset_3.ipynb)
+* Блокнот с [датасетом "Weather Conditions in World War Two"](/src/05-02-2022/individual_work_dataset_3.ipynb)
 
 ### Занятие 07 фев 2022 (ПН)
 
