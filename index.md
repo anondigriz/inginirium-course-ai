@@ -32,7 +32,7 @@ layout: default
 
 Материал:
 
-* Презентация [занятия](https://docs.google.com/presentation/d/1Mmu1tYx_a_t_3MAqDza6D6GUzAdDwN31_q2Og8A5y_4/edit?usp=sharing)
+* Презентация занятия
 
 ### Занятие 20 янв 2022 (ЧТ)
 
@@ -125,7 +125,7 @@ layout: default
 
 Материал:
 
-* Презентация [занятия](https://docs.google.com/presentation/d/1p1qCvPRwENIBWBKaoMCgD0UFfYz02VNUuvmU9jOyhUE/edit?usp=sharing)
+* Презентация занятия
 
 ### Занятие 27 янв 2022 (ЧТ)
 
