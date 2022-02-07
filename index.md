@@ -253,12 +253,22 @@ layout: default
 | Библиотеки Numpy, Pandas и другие | Практика | Аладин Дмитрий Владимирович |
 
 План:
-
-* <В_ПРОЦЕССЕ_ПОДГОТОВКИ_`¯\_(ツ)_/¯`>
+* Numpy
+* SciPy
+* Pandas
+* PandaSQL
 
 Материал:
 
-* <В_ПРОЦЕССЕ_ПОДГОТОВКИ_`¯\_(ツ)_/¯`>
+* Блокнот [занятия](src/07-02-2022/workshop_MainFlow.ipynb)
+
+Дополнительный материал:
+
+* [Курс "Введение в анализ данных" (2019)](https://www.youtube.com/playlist?list=PLrCZzMib1e9p6lpNv-yt6uvHGyBxQncEh) от Техносферы VK Team
+* [Краткое руководство по библиотеке Numpy](https://github.com/ugapanyuk/ml_course_2021/tree/main/common/notebooks/pandas/numpy_tutorial.ipynb)
+* [Краткое руководство по библиотеке SciPy](https://github.com/ugapanyuk/ml_course_2021/tree/main/common/notebooks/pandas/scipy_tutorial.ipynb)
+* [Краткое руководство по библиотеке Pandas](https://github.com/ugapanyuk/ml_course_2021/tree/main/common/notebooks/pandas/pandas_tutorial.ipynb)
+* [Краткое руководство по библиотеке PandaSQL](https://github.com/ugapanyuk/ml_course_2021/tree/main/common/notebooks/pandas/pandasql_tutorial.ipynb)
 
 ### Занятие 09 фев 2022 (СР)
 
