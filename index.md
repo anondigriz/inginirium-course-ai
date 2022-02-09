@@ -282,7 +282,7 @@ layout: default
 
 Материал:
 
-* Блокнот [занятия](https://colab.research.google.com/drive/1g6Irx8bPvENjw231vW-P9bLk7Jx4kR8m?usp=sharing)
+* Блокнот [занятия](src/09-02-2022/individual_work.ipynb)
 
 ### Занятие 10 фев 2022 (ЧТ)
 
