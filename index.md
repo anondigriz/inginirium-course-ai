@@ -292,11 +292,20 @@ layout: default
 
 План:
 
-* <В_ПРОЦЕССЕ_ПОДГОТОВКИ_`¯\_(ツ)_/¯`>
+* Обработка пропусков в данных
+* Преобразование категориальных признаков в числовые
+* Масштабирование и нормализация данных
 
 Материал:
 
-* <В_ПРОЦЕССЕ_ПОДГОТОВКИ_`¯\_(ツ)_/¯`>
+* Блокнот [занятия](src/10-02-2022/workshop_MainFlow.ipynb)
+
+Дополнительный материал:
+
+* [Preprocessing data](https://scikit-learn.org/stable/modules/preprocessing.html)
+* [Encoding Categorical Features](https://towardsdatascience.com/encoding-categorical-features-21a2651a065c)
+* [Data Cleaning Challenge: Handling missing values](https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values)
+* [Отличия LabelEncoder и OneHotEncoder в SciKit Learn](https://habr.com/ru/post/456294/)
 
 ### Занятие 12 фев 2022 (СБ)
 
@@ -306,14 +315,15 @@ layout: default
 
 План:
 
-* Numpy
-* SciPy
-* Pandas
-* PandaSQL
+* Самостоятельная работа
 
 Материал:
 
-* <В_ПРОЦЕССЕ_ПОДГОТОВКИ_`¯\_(ツ)_/¯`>
+* Блокнот [занятия](src/12-02-2022/individual_work.ipynb)
+
+Дополнительный материал:
+
+* [Installing the Kaggle API in Colab](https://colab.research.google.com/github/corrieann/kaggle/blob/master/kaggle_api_in_colab.ipynb)
 
 ### Занятие 14 фев 2022 (ПН)
 
