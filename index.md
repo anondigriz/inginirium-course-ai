@@ -283,6 +283,7 @@ layout: default
 Материал:
 
 * Блокнот [занятия](src/09-02-2022/individual_work.ipynb)
+* Решение блокнота [занятия](src/09-02-2022/individual_work_solution.ipynb)
 
 ### Занятие 10 фев 2022 (ЧТ)
 
