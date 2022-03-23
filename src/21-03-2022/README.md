@@ -48,3 +48,12 @@
 * [How to pass Base64 image string from Flask Python code to HTML](https://stackoverflow.com/questions/54625952/how-to-pass-base64-image-string-from-flask-python-code-to-html)
 * [Uploading and Returning Files With a Database in Flask](https://www.youtube.com/watch?v=pPSZpCVRbvQ)
 * [How to Display image from DB on Website | Convert Blop to Base64](https://www.youtube.com/watch?v=pKgesQmliEo)
+
+## Дополнительный материал
+
+* [Insomnia](https://insomnia.rest/download) - клиент для тестирования API
+* Решение проблемы с выполнением скриптов в [PowerShell](https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts)
+* Активировать виртуальную среду Python из [PowerShell](https://www.youtube.com/watch?v=1L0l5CzFs-4)
+* Как добавить Python в переменную Windows [PATH](https://okdk.ru/kak-dobavit-python-v-peremennuju-windows-path/)
+* Виртуальное окружение [Virtualenv](https://virtualenv.pypa.io/en/latest/index.html)
+* Настройка виртуальной среды в [Pycharm](https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html#python_create_virtual_env)
