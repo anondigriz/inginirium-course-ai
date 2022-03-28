@@ -773,8 +773,6 @@ layout: default
 План:
 
 * Основы создания чат-бота для Telegram
-* Библиотека python-telegram-bot (вариант через Webhooks и Flask)
-* Библиотека python-telegram-bot (вариант через Polling)
 * Библиотека python-telegram-bot (вариант через Polling)
 * AIOGram (вариант через Polling)
 
