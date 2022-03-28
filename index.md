@@ -779,7 +779,7 @@ layout: default
 Материал:
 
 * Материал [занятия](src/28-03-2022/README.md)
-* Итоговый [проект](https://github.com/anondigriz/flask-blog-demo-2022-03)
+* Итоговый [проект](https://github.com/anondigriz/bot-ai-demo-2022-03)
 
 ### Занятие 30 мар 2022 (СР)
 

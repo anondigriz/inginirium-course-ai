@@ -4,7 +4,6 @@
 
 Здесь представлен перечень используемых решений:
 
-* [Ngrok](https://ngrok.com/)
 * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot/)
 * [AIOGram](https://github.com/aiogram/aiogram)
 
